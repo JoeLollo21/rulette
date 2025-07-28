@@ -99,11 +99,11 @@ export default function StartScreen({ onStartGame }: { onStartGame: (playerCount
             className="font-headline text-2xl tracking-wider w-full"
           >
             <Settings className="mr-2 h-5 w-5" />
-            Manage Cards
+            MANAGE CARDS
           </Button>
         </Link>
         <Button size="lg" onClick={() => onStartGame(playerCount)} className="font-headline text-2xl tracking-wider w-full">
-          Start Game
+          SPIN THAT WHEEL!
         </Button>
       </div>
 
