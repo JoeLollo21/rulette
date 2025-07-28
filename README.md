@@ -1,4 +1,4 @@
-# Spin That Wheel
+# Get ready to...SPIN! THAT! WHEEL!!!
 This is a web verison of the game from [Dropout](https://dropout.tv)'s [*Game Changer* episode "Rulette"](https://www.dropout.tv/videos/rulette).
 
 ## Credits
