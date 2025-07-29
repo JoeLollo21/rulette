@@ -13,8 +13,7 @@ This is a web verison of the game from [Dropout](https://dropout.tv)'s [*Game Ch
 - **MODIFIER**: Change one of your rules, by flipping it (consult the game host or the Flip board on the site) or applying it to another player.
 
 ## Credits
-- Game idea, visual style, and sound effects come from Dropout.
 - Game idea, visual assets, and sound effects from [Dropout](https://dropout.tv), formerly known as CollegeHumor.
 - Wheel mechanic code (TypeScript) comes from Jeffrey Soffer's "*The Price is Right* Wheel" Vercel project.
 
-#[Play the Game Here](https://rulette.vercel.app)
+# Play the Game [Here](https://rulette.vercel.app)
