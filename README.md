@@ -16,4 +16,4 @@ This is a web verison of the game from [Dropout](https://dropout.tv)'s [*Game Ch
 - Game idea, visual assets, and sound effects from [Dropout](https://dropout.tv), formerly known as CollegeHumor.
 - Wheel mechanic code (TypeScript) comes from Jeffrey Soffer's "*The Price is Right* Wheel" Vercel project.
 
-# Play the Game [Here](https://rulette.vercel.app)
+## Play the game [here](https://rulette.vercel.app)!
