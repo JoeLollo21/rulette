@@ -3,8 +3,8 @@ This is a web verison of ["Rulette"](https://www.dropout.tv/videos/rulette), a g
 
 ## How to Play
 - Grab your friends (best played with 3-6 people).
-- Grab a writing utensil & a pack of sticky notes, paper, or notebook page(s).
-- Have one person agree to be the game host.
+- Grab a writing utensil & a pack of sticky notes, paper, or notebook pages.
+- Have one person agree to be the referee, to keep score and call out players who don't follow their rules. They get a RULE card with "Host the Game" on it.
 - Spin the virtual wheel.
 
 ### Card Types:
