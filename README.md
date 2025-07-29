@@ -1,5 +1,5 @@
 # It's time to...[SPIN! THAT! WHEEL!!!](https://www.youtube.com/shorts/0tP7buCigls)
-This is a web verison of the game from [Dropout](https://dropout.tv)'s [*Game Changer* episode "Rulette"](https://www.dropout.tv/videos/rulette).
+This is a web verison of ["Rulette"](https://www.dropout.tv/videos/rulette), a game from the seventh season of [Dropout](https://dropout.tv)'s [*Game Changer*](https://www.youtube.com/c/GameChangerShorts), the only game show where the game changes every episode.
 
 ## How to Play
 - Grab your friends (best played with 3-6 people).
