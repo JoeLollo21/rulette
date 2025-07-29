@@ -9,7 +9,7 @@ This is a web verison of ["Rulette"](https://www.dropout.tv/videos/rulette), a g
 
 ### Card Types:
 - **RULE**: Write down that rule (and apply it to yourself if it's on a sticky note). Until you get a modifier or the game ends, the rule applies to everything you do in-game.
-- **PROMPT**: Perform that prompt following all rules. If it's successful, you get 2 points. **If someone catches you breaking a rule, _you_ get -2 points and they get 2 points.**
+- **PROMPT**: Perform that prompt following all rules. If it's successful, you get 2 points. **If someone catches you breaking a rule, _you_ get -1 point and they get 1 point.**
 - **MODIFIER**: Change one of your rules, by flipping it (consult the game host or the Flip board on the site) or applying it to another player.
 
 ## Credits
