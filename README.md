@@ -13,7 +13,7 @@ This is a web verison of ["Rulette"](https://www.dropout.tv/videos/rulette), a g
 - **MODIFIER**: Change one of your rules, by flipping it (consult the game host or the Flip board on the site) or applying it to another player.
 
 ## Credits
-- Game idea, visual assets, and sound effects from [Dropout](https://dropout.tv), formerly known as CollegeHumor.
+- Game idea, visual assets, and sound effects from Dropout.
 - Wheel mechanic code (TypeScript) comes from Jeffrey Soffer's "*The Price is Right* Wheel" Vercel project.
 
 ### Play the game [here](https://rulette.vercel.app)!
