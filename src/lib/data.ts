@@ -23,8 +23,8 @@ export const ruleGroups: RuleGroup[] = [
   {
     id: 4,
     name: "Impression",
-    primary_rule: { id: 401, name: "Doing your best Christopher Walken", description: "You must do your best Christopher Walken impression." },
-    flipped_rule: { id: 402, name: "Doing your worst Robert Deniro", description: "You must do your worst Robert Deniro impression." },
+    primary_rule: { id: 401, name: "Doing a Batman voice", description: "You must do your best Batman voice." },
+    flipped_rule: { id: 402, name: "Doing a Joker voice", description: "You must do your best Joker voice." },
   },
   {
     id: 5,
@@ -77,8 +77,8 @@ export const ruleGroups: RuleGroup[] = [
   {
     id: 13,
     name: "Buzzer",
-    primary_rule: { id: 1301, name: "Kiss the nearest mirror", description: "When the buzzer sounds, find and kiss the closest mirror.", special: 'BUZZER' },
-    flipped_rule: { id: 1302, name: "Insult yourself in the mirror", description: "When the buzzer sounds, tell yourself 'You suck!' in the closest mirror.", special: 'BUZZER' }
+    primary_rule: { id: 1301, name: "High-five the player to your right", description: "When the buzzer sounds, high-five the player to your right.", special: 'BUZZER' },
+    flipped_rule: { id: 1302, name: "Fist-bump the player to your left", description: "When the buzzer sounds, fist-bump the player to your left.", special: 'BUZZER' }
   },
   {
     id: 14,
@@ -89,19 +89,19 @@ export const ruleGroups: RuleGroup[] = [
 ];
 
 export const prompts: Prompt[] = [
-  { id: 401, text: "Name 5 character actors in 30 seconds." },
-  { id: 402, text: "Name 10 types of cheese in 60 seconds." },
+  { id: 401, text: "Name 10 Pokemon." },
+  { id: 402, text: "Name 10 cheeses." },
   { id: 403, text: "Explain photosynthesis." },
-  { id: 404, text: "Recite a famous movie quote." },
-  { id: 405, text: "Invent and define a new word." },
-  { id: 406, text: "Name 5 blue things in this room." },
-  { id: 407, text: "say the ABCs" },
+  { id: 404, text: "Recite a quote from your favorite movie." },
+  { id: 405, text: "Say the Roses Are Red Poem." },
+  { id: 406, text: "Name 10 dog breeds." },
+  { id: 407, text: "Say the alphabet" },
 ];
 
 export const defaultBuzzerCountdown = 20;
 
 export const modifiers: Modifier[] = [
-  { id: 501, type: 'LEFT', name: "Left", description: "Take one of your active rules and pass it to the person on your left." },
+  { id: 501, type: 'LEFT', name: "Left", description: "Take one of your active rules and pass it to the player to your left." },
   { id: 503, type: 'FLIP', name: "Flip", description: "Choose one of your active rules to flip to its alternate version." },
   { id: 504, type: 'CLONE', name: "Clone", description: "Clone one of your rules and give the copy to another player." },
   { id: 505, type: 'SWAP', name: "Swap", description: "Swap any rule with another player's rule." },
