@@ -12,7 +12,7 @@ export const SEGMENT_COLORS = [
 
 // Palettes for the cards that sit inside the segments
 export const RULE_CARD_COLORS = [
-  { bg: '#D884C2', text: '#1F2937' }, // Purple
+  { bg: '#AA7C9E', text: '#1F2937' }, // Purple
   { bg: '#00BFC9', text: '#1F2937' }, // Teal
   { bg: '#F7BC7E', text: '#1F2937' }, // Yellow
   { bg: '#FF3247', text: '#1F2937' }, // Red
