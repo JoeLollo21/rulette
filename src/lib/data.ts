@@ -36,25 +36,25 @@ export const ruleGroups: RuleGroup[] = [
     id: 6,
     name: "Sentence Structure",
     primary_rule: { id: 601, name: "Questions Only", description: "You can only speak in questions." },
-    flipped_rule: { id: 602, name: "Statements Only", description: "You can only speak in statements." },
+    flipped_rule: { id: 602, name: "Statements Only", description: "You can only speak in declarative statements." },
   },
   {
     id: 7,
     name: "Humor",
-    primary_rule: { id: 701, name: "Be allergic to jokes", description: "You must sneeze at everyone's jokes." },
+    primary_rule: { id: 701, name: "Be allergic to jokes", description: "You must sneeze when everyone else makes a joke." },
     flipped_rule: { id: 702, name: "Laugh at everything", description: "You must laugh at everything, funny or not." },
   },
   {
     id: 8,
     name: "Tone",
     primary_rule: { id: 801, name: "Sexily", description: "You speak and act sexily." },
-    flipped_rule: { id: 802, name: "Unsexily", description: "You must speak and act in the most unsexy way." },
+    flipped_rule: { id: 802, name: "Un-sexily", description: "You must speak and act in the most un-sexy way." },
   },
   {
     id: 9,
     name: "Facial Expression",
-    primary_rule: { id: 901, name: "Don't show your teeth", description: "You cannot show your teeth while talking." },
-    flipped_rule: { id: 902, name: "Always show your teeth", description: "You must always be showing your teeth." },
+    primary_rule: { id: 901, name: "Without showing teeth", description: "You cannot show your teeth while talking." },
+    flipped_rule: { id: 902, name: "Always showing teeth", description: "You must always be showing your teeth." },
   },
   {
     id: 10,
@@ -66,7 +66,7 @@ export const ruleGroups: RuleGroup[] = [
     id: 11,
     name: "Nickname",
     primary_rule: { id: 1101, name: "Call everyone 'Big Dog'", description: "You must refer to everyone as 'Big Dog'." },
-    flipped_rule: { id: 1102, name: "Use formal names", description: "You must refer to everyone by their formal, full name." },
+    flipped_rule: { id: 1102, name: "Use formal names", description: "You must refer to everyone by their formal name (no nicknames)." },
   },
   {
     id: 12,
@@ -89,12 +89,12 @@ export const ruleGroups: RuleGroup[] = [
 ];
 
 export const prompts: Prompt[] = [
-  { id: 401, text: "Name 10 Pokemon." },
-  { id: 402, text: "Name 10 cheeses." },
+  { id: 401, text: "Name 10 Pokemon in 60 seconds." },
+  { id: 402, text: "Name 10 cheeses in 60 seconds." },
   { id: 403, text: "Explain photosynthesis." },
-  { id: 404, text: "Recite a quote from your favorite movie." },
-  { id: 405, text: "Say the Roses Are Red Poem." },
-  { id: 406, text: "Name 10 dog breeds." },
+  { id: 404, text: "Quote your favorite movie." },
+  { id: 405, text: "Recite the Roses Are Red Poem." },
+  { id: 406, text: "Name 10 pasta styles in 60 seconds." },
   { id: 407, text: "Say the alphabet" },
 ];
 
